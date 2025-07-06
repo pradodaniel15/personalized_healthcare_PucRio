@@ -46,5 +46,5 @@ Você pode carregar o dataset diretamente do GitHub usando o link raw:
 ```python
 import pandas as pd
 
-url = "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/personalized_healthcare_dataset.csv"
+url = "https://raw.githubusercontent.com/pradodaniel15/personalized_healthcare_PucRio/refs/heads/main/personalized_healthcare_dataset.csv"
 df = pd.read_csv(url)
